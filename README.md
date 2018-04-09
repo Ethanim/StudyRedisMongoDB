@@ -1,7 +1,6 @@
-
-[Redis 学习笔记](http://www.enoch.site/2018/03/23/RedisStudy/)
-[MongoDB 学习笔记](http://www.enoch.site/2018/04/08/MongoDBStudy/)
-[Reids 结合 Java 与 SpringBoot 操作](http://www.enoch.site/2018/04/09/RedisJavaOperation/)
+大家可以去我的个人博客看看，[Redis 学习笔记](http://www.enoch.site/2018/03/23/RedisStudy/)，
+[MongoDB 学习笔记](http://www.enoch.site/2018/04/08/MongoDBStudy/)，
+[Reids 结合 Java 与 SpringBoot 操作](http://www.enoch.site/2018/04/09/RedisJavaOperation/)，
 [MongoDB 结合 Java 与 SpringBoot 操作](http://www.enoch.site/2018/04/09/MongoDBJavaOperation/)
  
 ## Java 原生操作 MongoDB
