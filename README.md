@@ -1,7 +1,9 @@
-> MongoDB 基础：http://www.enoch.site/2018/04/08/MongoDBStudy
 
-> 项目代码：https://github.com/Ethanim/StudyRedisMongoDB
-
+[Redis 学习笔记](http://www.enoch.site/2018/03/23/RedisStudy/)
+[MongoDB 学习笔记](http://www.enoch.site/2018/04/08/MongoDBStudy/)
+[Reids 结合 Java 与 SpringBoot 操作](http://www.enoch.site/2018/04/09/RedisJavaOperation/)
+[MongoDB 结合 Java 与 SpringBoot 操作](http://www.enoch.site/2018/04/09/MongoDBJavaOperation/)
+ 
 ## Java 原生操作 MongoDB
 
 1.创建 Dynamic Web Project 项目，粘贴 mongo-java-driver-2.13.2.jar 包到 lib 中
